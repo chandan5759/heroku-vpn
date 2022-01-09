@@ -1,0 +1,14 @@
+{
+    "name": "Heroku_VPN",
+    "description": "Heroku_VPN",
+    "logo":"https://telegra.ph/file/29a269dbbfa0dac35786d.jpg",
+    "keywords": ["xray"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,You can generate new UUID using this website (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/chandan5759/heroku-vpn",
+    "stack": "container"
+}
